@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655829906070",
+    "project_id": "hookup-2f41d",
+    "storage_bucket": "hookup-2f41d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655829906070:android:6fc4f75269ae6245c688b7",
+        "android_client_info": {
+          "package_name": "com.hookup.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsCHT2FCan-JSbw0F8aXwUXQ74pXnLHKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
